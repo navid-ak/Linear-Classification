@@ -34,9 +34,6 @@ from difflib import SequenceMatcher
 pd.set_option('mode.chained_assignment', None)
 ```
 
-    /Users/navid/Library/Python/3.7/lib/python/site-packages/sklearn/externals/six.py:31: FutureWarning: The module is deprecated in version 0.21 and will be removed in version 0.23 since we've dropped support for Python 2.7. Please rely on the official version of six (https://pypi.org/project/six/).
-      "(https://pypi.org/project/six/).", FutureWarning)
-
 
 First, we read the data from .csv file and check the data info.
 
